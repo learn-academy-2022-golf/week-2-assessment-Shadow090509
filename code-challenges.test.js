@@ -162,5 +162,5 @@ const vowelTester3 = "challenges";
 function firstV(str) {
   let test = str.search(/[a,e,i,o,u,A,E,I,O,U]/g);
 }
-console.log(firstV(vowelTester1));
+
 // I know i want to search for the vowel and show the index of the first vowel. yet with my research, this is the function i came up with. i look forward to feed back and to figure out the better way to complete this weeks assesment. thank you for your time.
